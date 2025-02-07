@@ -1,0 +1,16 @@
+Pour vous connecter en tant que professeur :
+
+URL : http://localhost:3000/project/admin/login.php
+Email : chaymaeelfahssi26@gmail.com
+Mot de passe : chaymae2002
+Ou vous pouvez créer un nouveau compte.
+
+Pour vous connecter en tant qu'étudiant :
+
+URL : http://localhost:3000/project/login.php
+Email : salmafahssi26@gmail.com
+Mot de passe : 12345678
+Ou vous pouvez créer un nouveau compte.
+ 
+
+le video :https://drive.google.com/file/d/1SudjZsd7Vi71Mm8fSMNLfTAzuB7vKYDb/view
